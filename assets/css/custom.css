@@ -69,7 +69,7 @@ body {
     .card {
         height: auto;
         width: 300px;
-        margin-top: 25vh !important;
+        margin-top: 30vh !important;
         border-radius: 0;
     }
 
@@ -122,12 +122,21 @@ body {
         height: 100% !important;
     }
 
+    .input-group{
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
     .thumbnail {
         margin-top: 2rem !important;
     }
 
     .card {
         width: 500px;
+    }
+
+    .MainForm{
+        margin-top:10vh ;
     }
 
     .words {
